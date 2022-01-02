@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://refactorfirst.com/[slug]</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/about</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/privacy</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/projects</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/tags</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/code-sample</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/introducing-multi-part-posts-with-nested-routing</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/2021/nested-post</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/tags/code</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/tags/feature</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/tags/features</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/tags/markdown</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/tags/next-js</loc>
+  </url>
+
+  <url>
+    <loc>https://refactorfirst.com/tags/multi-author</loc>
+  </url>
+</urlset>
